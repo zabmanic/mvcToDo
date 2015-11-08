@@ -1,0 +1,4 @@
+C:\Source\mToDo\mToDo.Contracts\bin\Debug\mToDo.Contracts.dll
+C:\Source\mToDo\mToDo.Contracts\bin\Debug\mToDo.Contracts.pdb
+C:\Source\mToDo\mToDo.Contracts\obj\Debug\mToDo.Contracts.dll
+C:\Source\mToDo\mToDo.Contracts\obj\Debug\mToDo.Contracts.pdb

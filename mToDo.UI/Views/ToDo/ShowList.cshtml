@@ -1,0 +1,38 @@
+﻿@model IEnumerable<mToDo.Model.ToDoItem>
+
+@{
+    ViewBag.Title = "ShowList";
+}
+
+
+<p>
+    @Html.ActionLink("Create New", "CreateItem")
+</p>
+<table class="table">
+
+@foreach (var item in Model) 
+{
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ToDoItemIsDone)
+        </td>
+        <td>
+            @if (!item.ToDoItemIsDone)
+            {
+                @Html.DisplayFor(modelItem => item.ToDoItemText)
+            }
+            else
+            {
+                <span class="strikethrough">
+                    @Html.DisplayFor(modelItem => item.ToDoItemText)
+                </span>
+            }
+        </td>
+        <td>
+            @Html.ActionLink("Edit Task", "Edit", new { id=item.ToDoItemId }) |
+            @Html.ActionLink("Delete Task", "DeleteItem", new { id=item.ToDoItemId })
+        </td>
+    </tr>
+}
+
+</table>

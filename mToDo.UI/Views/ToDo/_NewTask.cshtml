@@ -1,0 +1,20 @@
+﻿@using (Html.BeginForm("CreateItem", "ToDo"))
+{
+<div class="form-horizontal">
+    <div class="form-group">
+        <div class="container">
+            <div class="jumbotron text-center">
+                <h3>To Do List</h3>
+                <div class="row">
+                    <div class="col-md-8">
+                        <input id="NewTask" name="NewTask" type="text" placeholder="New Task.." />
+                    </div>
+                    <div class="col-md-4">
+                        <input type="submit" class="btn btn-lg btn-success" value="Add New" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+}

@@ -1,0 +1,17 @@
+C:\Source\mToDo\mToDo.DAL\obj\Debug\mToDo.DAL.csprojResolveAssemblyReference.cache
+C:\Source\mToDo\mToDo.DAL\bin\Debug\mToDo.DAL.dll.config
+C:\Source\mToDo\mToDo.DAL\bin\Debug\mToDo.DAL.dll
+C:\Source\mToDo\mToDo.DAL\bin\Debug\mToDo.DAL.pdb
+C:\Source\mToDo\mToDo.DAL\bin\Debug\EntityFramework.dll
+C:\Source\mToDo\mToDo.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Source\mToDo\mToDo.DAL\bin\Debug\mToDo.Model.dll
+C:\Source\mToDo\mToDo.DAL\bin\Debug\mToDo.Model.pdb
+C:\Source\mToDo\mToDo.DAL\bin\Debug\EntityFramework.xml
+C:\Source\mToDo\mToDo.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Source\mToDo\mToDo.DAL\obj\Debug\mToDo.DAL.dll
+C:\Source\mToDo\mToDo.DAL\obj\Debug\mToDo.DAL.pdb
+C:\Source\mToDo\mToDo.DAL\bin\Debug\mToDo.Contracts.dll
+C:\Source\mToDo\mToDo.DAL\bin\Debug\mToDo.Contracts.pdb
+C:\Source\mToDo\mToDo.DAL\obj\Debug\mToDo.DAL.Migrations.initial.resources
+C:\Source\mToDo\mToDo.DAL\obj\Debug\mToDo.DAL.csproj.GenerateResource.Cache
+C:\Source\mToDo\mToDo.DAL\obj\Debug\mToDo.DAL.Migrations.isDone_change.resources

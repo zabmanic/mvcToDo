@@ -1,0 +1,7 @@
+C:\Source\mToDo\mToDo.Model\bin\Debug\mToDo.Model.dll
+C:\Source\mToDo\mToDo.Model\bin\Debug\mToDo.Model.pdb
+C:\Source\mToDo\mToDo.Model\obj\Debug\mToDo.Model.dll
+C:\Source\mToDo\mToDo.Model\obj\Debug\mToDo.Model.pdb
+C:\Source\mToDo\mToDo.Model\bin\Debug\mToDo.Contracts.dll
+C:\Source\mToDo\mToDo.Model\bin\Debug\mToDo.Contracts.pdb
+C:\Source\mToDo\mToDo.Model\obj\Debug\mToDo.Model.csprojResolveAssemblyReference.cache
